@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Front end Project**
 
-- 👨‍💻 All of my projects are available at [richabh456.github.io](richabh456.github.io)
+- 👨‍💻 my portfolio id : richabh456.github.io
 
 - 📫 How to reach me **richabharti987123@gmail.com**
 
